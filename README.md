@@ -16,7 +16,7 @@ Song name, Artist name, Album name, Duration
 However, this site does not have a description in playlists, so I took likes, and duration was hard to get, I'll explain why 
 At first I thought to do it through the html package and parse everything, but during Chrome DevTools in Network I found an API https://suamusica.com.br/_next/data/webid-1111/pt-BR/milsinhotoquedez/toque-dez-na-maxima.json
 I got this:
-natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
+
 
  "album": {
             "id": 4908524,
@@ -52,8 +52,7 @@ natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
                     "isHit": false
                 },
                
-and for songs this api https://suamusica.com.br/natanzinhoofc/
-https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
+and for songs this api https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
 
 "@context": "https://schema.org",
     "@type": "MusicAlbum",
