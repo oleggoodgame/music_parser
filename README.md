@@ -51,56 +51,7 @@ natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
                     "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Sua+Vez+de+Terminar.m3u8",
                     "isHit": false
                 },
-                {
-                    "id": 63925616,
-                    "file": "Chance Chanel",
-                    "path": "https://web.suamusica.com.br/36466514/4908524/Chance+Chanel.mp3",
-                    "isDownloadable": 1,
-                    "isExplicit": false,
-                    "position": 1,
-                    "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Chance+Chanel.m3u8",
-                    "isHit": false
-                },
-                {
-                    "id": 63925615,
-                    "file": "Um Centímetro part. Juninho Moraes",
-                    "path": "https://web.suamusica.com.br/36466514/4908524/Um+Cent%C3%ADmetro+part.+Juninho+Moraes.mp3",
-                    "isDownloadable": 1,
-                    "isExplicit": false,
-                    "position": 2,
-                    "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Um+Cent%C3%ADmetro+part.+Juninho+Moraes.m3u8",
-                    "isHit": false
-                },
-                {
-                    "id": 63925618,
-                    "file": "Fazendo História",
-                    "path": "https://web.suamusica.com.br/36466514/4908524/Fazendo+Hist%C3%B3ria.mp3",
-                    "isDownloadable": 1,
-                    "isExplicit": false,
-                    "position": 3,
-                    "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Fazendo+Hist%C3%B3ria.m3u8",
-                    "isHit": false
-                },
-                {
-                    "id": 63925617,
-                    "file": "Estrela",
-                    "path": "https://web.suamusica.com.br/36466514/4908524/Estrela.mp3",
-                    "isDownloadable": 1,
-                    "isExplicit": false,
-                    "position": 4,
-                    "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Estrela.m3u8",
-                    "isHit": false
-                },
-                {
-                    "id": 63925614,
-                    "file": "Homem de Família",
-                    "path": "https://web.suamusica.com.br/36466514/4908524/Homem+de+Fam%C3%ADlia.mp3",
-                    "isDownloadable": 1,
-                    "isExplicit": false,
-                    "position": 5,
-                    "stream": "https://web-stream.suamusica.com.br/36466514/4908524/stream/Homem+de+Fam%C3%ADlia.m3u8",
-                    "isHit": false
-                },
+               
 and for songs this api https://suamusica.com.br/natanzinhoofc/
 https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=6392458
 
@@ -123,61 +74,11 @@ https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?m
             "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924589",
             "duration": ""
         },
-        {
-            "@type": "MusicRecording",
-            "position": 2,
-            "name": "02 - Estrela - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924590",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 3,
-            "name": "03 - Não Me Perdoei - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924591",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 4,
-            "name": "04 - Ui Adoro - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924592",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 5,
-            "name": "05 - Sonho De Amor - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924593",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 6,
-            "name": "06 - Romântico Anônimo - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924594",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 7,
-            "name": "07 - Te Quero Pra Mim - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924595",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 8,
-            "name": "08 - O Que Falta Em Você Sou Eu - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924596",
-            "duration": ""
-        },
-        {
-            "@type": "MusicRecording",
-            "position": 9,
-            "name": "09 - Vou Assumir - Natanzinho Lima",
-            "url": "https://suamusica.com.br/natanzinhoofc/natanzinho-lima-cortando-chao-cuiaba-mt?musicid=63924597",
-            "duration": ""
-        },
+        
 
 I had an idea to get duration via mp3, unfortunately I didn't know any third-party packages so I had to use artificial intelligence but it didn't really help.
+
+Photos:
+<img width="387" height="742" alt="image" src="https://github.com/user-attachments/assets/04299125-7368-4524-9284-f58862e645dc" />
+
+<img width="392" height="744" alt="image" src="https://github.com/user-attachments/assets/1b97c407-d3fb-40f4-a258-a84027989d51" />
